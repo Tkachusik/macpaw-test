@@ -36,3 +36,61 @@
     transform: rotate(360deg);
   }
 }
+
+.favourites {
+  background: #F8F8F8;
+  min-height: 100%;
+}
+
+.content {
+  margin-top: 78px;
+  margin-left: 140px;
+}
+
+.msi {
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 28px;
+margin-top: 40px;
+margin-left: 140px;
+}
+
+.hello {
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 32px;
+line-height: 44px;
+margin: 0px;
+}
+
+.find {
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 44px;
+}
+
+.form-check {
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 26px;
+}
+
+.form-check-position {
+  margin-top: 46px;
+}
+
+.btn-primary {
+background: linear-gradient(92.01deg, #8EA7FF 0%, #7291FF 100%);
+border-radius: 10px;
+margin-top: 20px;
+width: 152px;
+height: 42px;
+border-color: inherit;
+}
