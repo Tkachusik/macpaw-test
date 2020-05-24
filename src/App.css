@@ -37,6 +37,10 @@
   }
 }
 
+.container-fluid {
+  padding: 0;
+}
+
 .favourites {
   background: #F8F8F8;
   padding: 40px;
@@ -183,24 +187,18 @@ margin-left: 40px;
 }
 
 .btn-light {
-  float: right;
-  background: #FFFFFF;
-  border-radius: 6px;
-  position: absolute;
-  right: 40px;
-  top: 0px;
-  width: 107px;
   font-family: Roboto;
   font-style: normal;
   font-weight: 500;
-  font-size: 10px;
-  line-height: 14px;
+  font-size: 12px;
+  line-height: 16px;
+  margin-right: 10px;
+  margin-top: 20px;
+  margin-bottom: 30px;
 }
 
 .favourites-jokes-list {
   margin-top: 20px;
-  background: #FFFFFF;
-  border-radius: 10px;
 }
 
 .favourites-joke-item {
@@ -210,6 +208,8 @@ margin-left: 40px;
   box-sizing: border-box;
   box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
   border-radius: 10px;
+  margin-bottom: 20px;
+  background: #fff;
 }
 
 .heart2 {
@@ -285,4 +285,113 @@ margin-left: 40px;
   width: 20px;
   height: 20px;
   margin-right: 5px;
+}
+
+.md-modal {
+  height: 100%;
+  position: fixed;
+  width: 100%;
+  background: rgba(0, 0, 0, 0.3);
+  z-index: 100;
+  overflow-y: auto;
+  right: 0;
+}
+
+.favourite-btn2 {
+  position: absolute;
+  right: 20px;
+  top: 0px;
+  font-family: Roboto;
+  font-style: normal;
+  font-size: 18px;
+  line-height: 28px;
+  color: #ABABAB;
+}
+
+.text-favourite-mobile {
+  float: right;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 26px;
+  color: #ABABAB;
+}
+
+.app {
+  position: relative;
+}
+
+.no-margin {
+  margin: 0;
+}
+
+.favourites-jokes-list-mobile {
+  margin-top: 40px;
+}
+
+.celebtiry-Btn {
+  float: right;
+  background: #FFFFFF;
+  border-radius: 6px;
+  position: absolute;
+  right: 40px;
+  top: 0px;
+  width: 107px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 10px;
+  line-height: 14px;
+}
+
+.forma {
+  background: white;
+  border-radius: #F8F8F8;
+  box-sizing: border-box;
+  border-radius: 6px;
+  color: #ABABAB;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 16px;
+}
+
+.forma:hover {
+  border:2px solid #F8F8F8;
+  cursor: pointer;
+  color: #333333;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 16px;
+}
+
+.active {
+  background: #F8F8F8;
+  border: 2px solid #F8F8F8;
+  box-sizing: border-box;
+  border-radius: 6px;
+}
+
+.search-text {
+  border: 2px solid #333333;
+  box-sizing: border-box;
+  border-radius: 10px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 100%;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 22px;
+  height: 42px;
+  color: #ABABAB;
+}
+
+.position-text {
+  padding: 15px;
 }
