@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/macpaw-test/static/css/main.d9b80d95.chunk.css",
+    "main.js": "/macpaw-test/static/js/main.10e89bc9.chunk.js",
+    "main.js.map": "/macpaw-test/static/js/main.10e89bc9.chunk.js.map",
+    "runtime-main.js": "/macpaw-test/static/js/runtime-main.9c0c4c19.js",
+    "runtime-main.js.map": "/macpaw-test/static/js/runtime-main.9c0c4c19.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/macpaw-test/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.e732d94e.chunk.js": "/macpaw-test/static/js/2.e732d94e.chunk.js",
+    "static/js/2.e732d94e.chunk.js.map": "/macpaw-test/static/js/2.e732d94e.chunk.js.map",
+    "index.html": "/macpaw-test/index.html",
+    "precache-manifest.600255e37029fec6590e9a5c2365e871.js": "/macpaw-test/precache-manifest.600255e37029fec6590e9a5c2365e871.js",
+    "service-worker.js": "/macpaw-test/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/macpaw-test/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.d9b80d95.chunk.css.map": "/macpaw-test/static/css/main.d9b80d95.chunk.css.map",
+    "static/js/2.e732d94e.chunk.js.LICENSE.txt": "/macpaw-test/static/js/2.e732d94e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9c0c4c19.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.e732d94e.chunk.js",
+    "static/css/main.d9b80d95.chunk.css",
+    "static/js/main.10e89bc9.chunk.js"
+  ]
+}
